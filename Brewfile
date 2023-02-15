@@ -1,0 +1,7 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "node@18"
+brew "nvm"
+brew "wget"
+cask "iterm2"
